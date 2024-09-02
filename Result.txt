@@ -1,0 +1,18 @@
+{
+   "effects" : {
+      "Main parametr" : 0,
+      "Secondary parametr" : 3844
+   },
+   "elements" : {
+      "Main parametr" : 0,
+      "Secondary parametr" : 3844
+   },
+   "euro" : {
+      "Main parametr" : 0,
+      "Secondary parametr" : 3844
+   },
+   "execute" : {
+      "Main parametr" : 0,
+      "Secondary parametr" : 3844
+   }
+}
